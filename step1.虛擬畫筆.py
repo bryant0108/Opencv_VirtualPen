@@ -5,8 +5,8 @@ import numpy as np
 cap = cv2.VideoCapture(0)
 
 # Blue Green Yellow
-penColorHSV = [[14, 59, 160, 255, 175, 255],
-               [47, 97, 169, 255, 148, 255],
+penColorHSV = [[86, 121, 205, 111, 245, 255],
+               [46, 78, 204, 71, 255, 255],
                [22, 70, 214, 31, 255, 255]]
 
 penColorBGR = [[255, 0, 0],
