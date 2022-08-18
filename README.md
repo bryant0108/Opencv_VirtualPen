@@ -13,7 +13,9 @@ step1. git clone https://github.com/bryant0108/Opencv_VirtualPen.git
 step2. pip install -r requirements.txt
 
 step3. 執行step0.偵測筆顏色.py （預設為藍綠黃）
+
 選定您所想使用的畫筆 調整hsv值直至result畫面上僅出現畫筆為止
+
 記錄下畫筆的hsv值 待會於step1.虛擬畫筆.py 中進行修改
 
 藍=[14, 59, 160, 255, 175, 255]
